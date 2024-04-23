@@ -11,43 +11,43 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": "6873060195:AAF0sFDzqVQIgzQp6iW7y2ESki5Y447wjTo"
+      "value": ""
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "kazuzz"
+      "value": "durov"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "5674661785"
+      "value": ""
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": "5674661785"
+      "value": ""
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "25613661"
+      "value": ""
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "2d3bc5db8e0fa7605be93ee859d29d4d"
+      "value": ""
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-1002035803512"
+      "value": ""
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "-1001723636788"
+      "value": "0"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!\n\n<b>KAMU BELUM MEMILIH LINK MEDIA</b>\n<b>sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴅɪ ᴄʜᴀɴɴᴇʟ ᴜᴛᴀᴍᴀ!</b>"
+      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄!\n<b>ᴋᴀᴍᴜ ʙᴇʀᴀᴅᴀ ᴅɪ ᴛᴇᴍᴘᴀᴛ ʏᴀɴɢ ᴛᴇᴘᴀᴛ</b>\n\n<b>WAJIB JOIN DI CH INI :</b>\n✦ @BOKEPBOCIL ✦\n\n<b>ᴊɪᴋᴀ sᴜᴅᴀʜ ᴊᴏɪɴ,\nᴛᴇᴋᴀɴ ʀᴇsᴛᴀʀᴛ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜɴᴄᴜʟᴋᴀɴ ᴍᴇᴅɪᴀ.</b>"
+      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄!</b>"
     }
   },
   "addons": [
